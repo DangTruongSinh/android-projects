@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UngDungDocBao</string>
+    <string name="default_notification_channel_id">123213</string>
+    <string name="default_notification_channel_title">myNotification</string>
+    <string name="warning">Wifi not have been</string>
+</resources>

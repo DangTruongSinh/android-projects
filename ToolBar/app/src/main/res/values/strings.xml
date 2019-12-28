@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ToolBar</string>
+    <string name="top_activity">Bits and Pizzas</string>
+    <string name="order_activity">Order Activity</string>
+    <string name="action">action</string>
+    <string name="share_action">share_action</string>
+
+    <string name="home">HOME</string>
+    <string name="pizzas">PIZZAS</string>
+    <string name="pasta">PASTA</string>
+    <string name="stores">STORES</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="home_fragment">Top fragment</string>
+
+    <string-array name="pizzas_fragment">
+        <item>Diavolo</item>
+        <item>Funghi</item>
+    </string-array>
+
+    <string-array name="passta_fragment">
+        <item>Spaghetti Bolognese</item>
+        <item>Lasagne</item>
+    </string-array>
+    <string-array name="store_fragment">
+        <item>Cambridge</item>
+        <item>Sebastopol</item>
+    </string-array>
+    <string name="company_name">Bits and Pizzas</string>
+    <string name="home_test">Since we opened our doors in 2019, Bits and Pizzas has built its reputation
+        as one of America\'s best Italian-Digital restaurants. Some people believe eating out is about being with your
+        friends and family. We believe that good food is  best enjoyed while staring at your phone.</string>
+    <string name="order_name_hint">Please enter your name</string>
+    <string name="order_detail_hint">Please enter your detail</string>
+</resources>

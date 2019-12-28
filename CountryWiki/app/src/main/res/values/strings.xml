@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CountryWiki</string>
+    <string-array name="arrList">
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+        <item>item</item>
+    </string-array>
+</resources>

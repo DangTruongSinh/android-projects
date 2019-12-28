@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "519079386793",
+    "firebase_url": "https://vidufirebase-6c524.firebaseio.com",
+    "project_id": "vidufirebase-6c524",
+    "storage_bucket": "vidufirebase-6c524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519079386793:android:ce1f70039823d1f4",
+        "android_client_info": {
+          "package_name": "com.truongsinh.vidufirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519079386793-6fi3581gvoc8ll1mojjfd8rmcrj2h84j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.truongsinh.vidufirebase",
+            "certificate_hash": "93856350afa6648851ec06edcc97a1da5bf1c8e9"
+          }
+        },
+        {
+          "client_id": "519079386793-11sucfil31mqa9nhsdre9h0g0kt2jpba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8qg_DaYW9MCqSrbaWgAVhFbmuMtriLYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519079386793-11sucfil31mqa9nhsdre9h0g0kt2jpba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

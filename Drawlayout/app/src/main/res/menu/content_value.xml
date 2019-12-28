@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:title="sinh"
+            android:icon="@drawable/ic_launcher_foreground"/>
+        <item android:title="ha"
+            android:icon="@drawable/ic_launcher_foreground"/>
+        <item android:title="thu"
+            android:icon="@drawable/ic_launcher_foreground"/>
+    </group>
+    <item android:title="help">
+        <menu>
+            <item android:title="hoi gi"
+                android:icon="@drawable/ic_launcher_foreground"></item>
+            <item android:title="hoc english"
+                android:icon="@drawable/ic_launcher_foreground"></item>
+        </menu>
+    </item>
+</menu>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:background="#f5f4f2"
+    android:layout_marginTop="10dp"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="5dp"
+        android:layout_height="50dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:id="@+id/maunen"
+        android:background="#e25454"
+        android:orientation="horizontal"></LinearLayout>
+
+    <LinearLayout
+        android:layout_width="70dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/maunen"
+        android:weightSum="3"
+        android:background="#ede3cf"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/txtThu"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="Saturday"
+
+            android:gravity="center"
+            />
+        <TextView
+            android:id="@+id/txtNgayThang"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="30 Jul"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:gravity="center"
+            />
+        <TextView
+            android:id="@+id/txtTime"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:text="08:46"
+            android:gravity="center"
+            />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/imgItem"
+        android:layout_width="90dp"
+        android:layout_height="60dp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginEnd="4dp"
+        app:srcCompat="@drawable/images" />
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="85dp"
+        android:layout_marginTop="6dp"
+        android:layout_marginEnd="14dp"
+        android:layout_toStartOf="@+id/imgItem"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="Title" />
+
+    <TextView
+        android:id="@+id/txtContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtTitle"
+        android:layout_marginStart="85dp"
+        android:layout_marginTop="5dp"
+        android:lines="1"
+        android:layout_marginEnd="14dp"
+        android:layout_toStartOf="@+id/imgItem"
+        android:text="TextView" />
+
+</RelativeLayout>

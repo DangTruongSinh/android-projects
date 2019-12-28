@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FreekingMath</string>
+    <string name="text_play">Freeking Math</string>
+    <string name="replay">Replay</string>
+    <string name="exit">exit</string>
+</resources>

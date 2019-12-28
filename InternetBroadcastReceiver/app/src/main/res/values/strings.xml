@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InternetBroadcastReceiver</string>
+    <string name="default_notification_channel_id">12345</string>
+    <string name="default_notification_channel_title">My Notification</string>
+</resources>
